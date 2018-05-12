@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from media import Movie
 import fresh_tomatoes
 
