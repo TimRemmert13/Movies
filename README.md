@@ -1,7 +1,9 @@
-#Movies
+# Movies
+
 A web page that displays the images of movies posters, and on click plays the movies trailer in a modal.
 
-##Installation
+## Installation
+
 To install and run on Mac OS or Linux run the following commands:
 ```
 git clone https://github.com/TimRemmert13/Movies.git 
