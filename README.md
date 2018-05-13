@@ -16,12 +16,16 @@ Python --verson
 
 ## Installation
 
-To install and run the project on Mac Os or Linux:
+To install and run the project:
+1. Download the ZIP file from the root directory.
+2. Change directories to the Movies-master directory.
+To achieve this on Mac OS or Linux from the command line enter:
 ```
-git clone https://github.com/TimRemmert13/Movies.git
-cd Movies
-Python3 entertainment_center.py
+cd Downloads/Movies-master
 ```
-
-
-A tab in your web browser should open to the home page.
+3. Run the file by enter the command:
+```
+Python entertainment_center.py
+```
+4. A new tab should automatically open in your default browser, or a new window if you do not have your default browser open when running the command.
+5. Enjoy the trailers of my favorite movies!
